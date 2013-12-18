@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/test/spec/directives/foundationBreadcrumb.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/directives/foundationBreadcrumb.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/app.js" />
+        <item url="file://$PROJECT_DIR$/test/spec/directives/foundationBreadcrumbs.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/directives/foundationBreadcrumbs.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/scripts/controllers/main.js" />
+      <root url="file://$PROJECT_DIR$/test/spec/directives/foundationBreadcrumb.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/directives/foundationBreadcrumb.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/app.js" />
+      <root url="file://$PROJECT_DIR$/test/spec/directives/foundationBreadcrumbs.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/directives/foundationBreadcrumbs.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+{"version":3,"file":"unknown","sources":["app.coffee"],"names":["angular","$routeProvider","otherwise"],"mappings":"AAAA;AAEAA,OAAO,OAAO,CAAC,sBAAD,EAAyB,EAAzB,CAA4B,QAClC,SAAA,CAACC,cAAD,CAAA;EACHA,cAAc,KAAd,CACK,GADL,EAEI,CAAA;AAAA,eAAA,EAAa,iBAAb;AAAA,cACD,EAAY,UADX;AAAA,EAAA,CAFJ;SAICC,SAAA,CACG,CAAA,WAAA,EAAY,GAAZ,CAAA,CADH"}
